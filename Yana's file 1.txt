@@ -1,5 +1,1 @@
-Добавить какие-то файлы (любой формат)
-a. Stage them (press stage all button)
-6. Закоммитить в мастер:
-a. Add message first
-b. Press commit button in the right bottom corner of Source Tree
+Do any updates in the existing file
